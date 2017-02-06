@@ -1,4 +1,6 @@
-# Information-Retrieval-Project# Creare a Dynamic Web Project in Eclipse.
+# Information-Retrieval-Project
+
+# Creare a Dynamic Web Project in Eclipse.
 
 Copy the following files in Java Resources Src folder :
 
